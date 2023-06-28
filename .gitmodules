@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "netcontrol"]
 	path = netcontrol
 	url = https://github.com/cran/netcontrol
-	shallow = true
-	registered = true
 [submodule "netjack"]
 	path = netjack
 	url = https://github.com/cran/netjack
-	shallow = true
-	registered = true
