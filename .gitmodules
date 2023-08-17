@@ -5,6 +5,3 @@
 [submodule "netcontrol"]
 	path = netcontrol
 	url = https://github.com/cran/netcontrol
-[submodule "netjack"]
-	path = netjack
-	url = https://github.com/cran/netjack
